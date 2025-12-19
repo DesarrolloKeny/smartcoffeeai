@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-ai/php-ml": "^0.10.0",
+        "phpmailer/phpmailer": "^7.0"
+    }
+}
